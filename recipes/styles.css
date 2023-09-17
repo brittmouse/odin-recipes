@@ -1,0 +1,26 @@
+* {
+  background-color: #ffec74;
+  font-family: Arial;
+  font-size: 18px;
+}
+
+h1 {
+  background-color: #ffe64a;
+  border: 1px solid black;
+  font-size: 32px;
+  margin-bottom: 40px;
+  padding: 5px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+  text-indent: 20px;
+}
+
+img {
+  float: right;
+  width: 600px;
+  height: auto;
+  padding: 15px;
+}
